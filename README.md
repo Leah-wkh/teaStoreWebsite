@@ -1,2 +1,2 @@
 # teaStoreWebsite
-An example homepage for a tea store
+For this CodeCademy project, I created an example homepage for a tea store. 
